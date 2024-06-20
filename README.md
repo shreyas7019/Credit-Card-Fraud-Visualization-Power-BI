@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Visualization-Power-BI
+Created highly interactive Power BI visualizations for comprehensive transaction analysis, significantly enhancing fraud detection capabilities and providing actionable insights for proactive risk management.
